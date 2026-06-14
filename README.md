@@ -5,19 +5,14 @@ I'm a person who is interested in video games and coding.
 ## My Projects
 ### Rhythm Heaven Fever HD
 This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's textures for use with the Dolphin Emulator.
-<div class="row">
-  <div class="column">
-    <img src="images/Rhythm Heaven Fever HD Logo.svg" width="468" alt="Rhythm Heaven Fever HD logo.">
-  </div>
-  <div class="column">
-    <img src="images/Screenshot_RHFHD.png" width="468" alt="Screenshot of the Rhythm Heaven Fever Title Screen with the texture pack on." style="width:100%">
-  </div>
-</div>
+
+<img src="images/Rhythm Heaven Fever HD Logo.svg" alt="Rhythm Heaven Fever HD logo." style="width:50%">
+<img src="images/Screenshot_RHFHD.png" alt="Screenshot of the Rhythm Heaven Fever Title Screen with the texture pack on." style="width:80%">
 
 ## Socials
 Discord: borists<br>
-Youtube: [Borists](https://www.youtube.com/@Borists-k7j)<br>
-Bluesky: [Borists](https://bsky.app/profile/borists.bsky.social)
+[Youtube](https://www.youtube.com/@Borists-k7j)<br>
+[Bluesky](https://bsky.app/profile/borists.bsky.social)
 
 More information on [my website](https://borists1.github.io)!
 <!--
