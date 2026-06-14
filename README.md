@@ -15,8 +15,8 @@ This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's 
 </div>
 
 ## Socials
-Discord: borists
-Youtube: [Borists](https://www.youtube.com/@Borists-k7j)
+Discord: borists<br>
+Youtube: [Borists](https://www.youtube.com/@Borists-k7j)<br>
 Bluesky: [Borists](https://bsky.app/profile/borists.bsky.social)
 
 More information on [my website](https://borists1.github.io)!
