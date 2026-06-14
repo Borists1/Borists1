@@ -18,7 +18,7 @@ This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's 
     <img src="https://img.shields.io/badge/Discord-Borists-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Borists"/>
     <a href="https://www.youtube.com/@Borists-k7j"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/></a>
     <a href="https://bsky.app/profile/borists.bsky.social/"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff" alt="Bluesky"/></a><br>
-    More information about me on <a href="https://borists1.github.io/">my website</a>!
+    <a href="https://borists1.github.io/"><img src="https://img.shields.io/badge/Website-borists1.github.io-forestgreen?style=for-the-badge" alt="borists1.github.io"/></a>
 </div>
 
 <!--
