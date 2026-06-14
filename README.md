@@ -1,9 +1,9 @@
-## Hello! I'm Borists and this is my Github account!
+# Hello! I'm Borists and this is my Github account!
 
 I'm a person who is interested in video games and coding.
 
-### My Projects
-## Rhythm Heaven Fever HD
+## My Projects
+### Rhythm Heaven Fever HD
 This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's textures for use with the Dolphin Emulator.
 <div class="row">
   <div class="column">
@@ -14,7 +14,7 @@ This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's 
   </div>
 </div>
 
-### Socials
+## Socials
 Discord: borists
 Youtube: [Borists](https://www.youtube.com/@Borists-k7j)
 Bluesky: [Borists](https://bsky.app/profile/borists.bsky.social)
