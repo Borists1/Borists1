@@ -7,10 +7,10 @@ I'm a person who is interested in video games and coding.
 This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's textures for use with the Dolphin Emulator.
 <div class="row">
   <div class="column">
-    <img src="images/Rhythm Heaven Fever HD Logo.svg" alt="Rhythm Heaven Fever HD logo." style="width:100%">
+    <img src="images/Rhythm Heaven Fever HD Logo.svg" width="468" alt="Rhythm Heaven Fever HD logo.">
   </div>
   <div class="column">
-    <img src="images/RHFHD_Screenshot.png" alt="Screenshot of the Rhythm Heaven Fever Title Screen with the texture pack on." style="width:100%">
+    <img src="images/Screenshot_RHFHD.png" width="468" alt="Screenshot of the Rhythm Heaven Fever Title Screen with the texture pack on." style="width:100%">
   </div>
 </div>
 
