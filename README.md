@@ -10,6 +10,7 @@
 <img src="images/Note.gif" alt="Note, a character from Rhythm Heaven for the Nintendo DS, jumping happily." align=right style="width:25%">
 
 This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's textures for use with the Dolphin Emulator.
+
 <img src="images/Rhythm Heaven Fever HD Logo.svg" alt="Rhythm Heaven Fever HD logo." style="width:50%">
 <img src="images/Screenshot_RHFHD.png" alt="Screenshot of the Rhythm Heaven Fever Title Screen with the texture pack on." style="width:80%">
 
