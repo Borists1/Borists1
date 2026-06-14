@@ -5,7 +5,7 @@ I'm a person who is interested in video games and coding.
 <h2>My projects</h2>
 </div>
 
-### Rhythm Heaven Fever HD
+<h3><a href="https://github.com/Borists1/RhythmHeavenFeverHD/">Rhythm Heaven Fever HD</a></h3>
 <img src="images/Note.gif" alt="Note, a character from Rhythm Heaven for the Nintendo DS, jumping happily." align=right style="width:25%">
 
 This is a project i'm making where I upscale the Wii game Rhythm Heaven Fever's textures for use with the Dolphin Emulator.
